@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "21dbc83a-f356-42fb-bfc6-a83bb623a763",
+    "name": "Rudy Harris",
+    "phone": "808.651.4920",
+    "email": "Alfonzo_Johnson@yahoo.com",
+    "job": "Chief Marketing Director"
+  },
+  {
+    "id": "f5b69419-3d38-4fb9-8c18-6e69dd288217",
+    "name": "Julia Lemke",
+    "phone": "1-848-981-7137 x660",
+    "email": "Adrian.Rowe@gmail.com",
+    "job": "Investor Configuration Producer"
+  },
+  {
+    "id": "0061d43f-d67a-47ea-b729-28c5dc673738",
+    "name": "Alicia Marks-Turner",
+    "phone": "652-903-6481 x49142",
+    "email": "Zack.Bartell@yahoo.com",
+    "job": "Chief Creative Planner"
+  }
+]
